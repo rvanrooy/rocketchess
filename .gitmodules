@@ -1,0 +1,3 @@
+[submodule "app/scripts/vendor/chessjs"]
+	path = app/scripts/vendor/chessjs
+	url = https://github.com/jhlywa/chess.js.git
